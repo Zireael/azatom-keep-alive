@@ -1,0 +1,17 @@
+{
+  "name": "azatom-keep-alive",
+  "version": "1.0.0",
+  "description": "Outputs sound into Azatom speakers/sound bars to keep them from going into switch off",
+  "main": "./app/app.js",
+  "repository": "https://github.com/Zireael/azatom-keep-alive.git",
+  "author": "Zireael <zirdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "audio-generator": "^2.1.2",
+    "audio-noise": "^1.0.0",
+    "audio-speaker": "^1.5.0",
+    "play": "^0.5.0",
+    "speaker": "^0.5.1",
+    "white-noise-node": "^1.1.1"
+  }
+}
